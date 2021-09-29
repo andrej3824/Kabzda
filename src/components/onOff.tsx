@@ -4,7 +4,7 @@ type PropsType = {
     on: boolean
 }
 
-function OnOff(props: PropsType)  {
+function OnOff(props: PropsType) {
 
     const onStyle = {}
     const offStyle = {}
