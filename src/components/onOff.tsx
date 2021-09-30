@@ -41,7 +41,7 @@ function OnOff(props: PropsType) {
         </div>
         <div style={offStyle} onClick={() => { setOn(false) }}>off
         </div>
-        <div style={indicatorStyle}></div>
+        <div style={indicatorStyle}/>
     </div>
 }
 
